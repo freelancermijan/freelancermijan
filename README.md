@@ -2,11 +2,11 @@
 <h3 align="center">A Penetration Tester & WordPress Expert</h3>
 
 ## Skills & Experience : 
-* :computer: Python3 / JavaScript / PHP / Webcoding(HTML,CSS,JavaScript ,PHP, MySQL)
+* :computer: Python / JavaScript / PHP / Webcoding(HTML,CSS,JavaScript ,PHP, MySQL)
 * :collision: Linux OS / Windows OS / Kali OS
  * :muscle: Cryptography / Steganography / Web-Pentesting
  * :skull: Ethical Hacking / Web-pentesting / Basic Networking / CTF 
- * :eyes: Try Hack Me / Picoctf / Portswigger / Hacker101
+ * :eyes: TryHackMe / Picoctf / Hackthebox / Portswigger / Hacker101
      
            
  * :fire:
